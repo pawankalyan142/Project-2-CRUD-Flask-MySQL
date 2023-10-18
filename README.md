@@ -68,7 +68,7 @@ http://localhost:5000
 
 <a href="" target="_blank"><img src="p4.PNG" alt="Update Contact-Details" width="50%" height="50%" /></a>
 #
-**ScreenShort-4  Delete Contact-Details**
+**ScreenShort-5  Delete Contact-Details**
 
 <a href="" target="_blank"><img src="p5.PNG" alt="Delete Contact-Details" width="50%" height="50%" /></a>
 #
