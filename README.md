@@ -54,23 +54,23 @@ http://localhost:5000
 
 **ScreenShort-1 Home**
 
-<a href="" target="_blank"><img src="home.PNG" alt="ScreenShort-1 Home" width="50%" height="50%" /></a>
+<a href="" target="_blank"><img src="p1.PNG" alt="ScreenShort-1 Home" width="50%" height="50%" /></a>
 #
 **ScreenShort-2 Add Contact-Details Page**
 
-<a href="" target="_blank"><img src="2.PNG" alt="ScreenShort-2 Add Contact-Details Page" width="50%" height="50%" /></a>
+<a href="" target="_blank"><img src="p2.PNG" alt="ScreenShort-2 Add Contact-Details Page" width="50%" height="50%" /></a>
 #
 **ScreenShort-3 Duplicate Contact-Details**
 
-<a href="" target="_blank"><img src="3.PNG" alt="Duplicate Contact-Details" width="50%" height="50%" /></a>
+<a href="" target="_blank"><img src="p3.PNG" alt="Duplicate Contact-Details" width="50%" height="50%" /></a>
 #
 **ScreenShort-4  Update Contact-Details**
 
-<a href="" target="_blank"><img src="4.PNG" alt="Update Contact-Details" width="50%" height="50%" /></a>
+<a href="" target="_blank"><img src="p4.PNG" alt="Update Contact-Details" width="50%" height="50%" /></a>
 #
 **ScreenShort-4  Delete Contact-Details**
 
-<a href="" target="_blank"><img src="4.PNG" alt="Delete Contact-Details" width="50%" height="50%" /></a>
+<a href="" target="_blank"><img src="p5.PNG" alt="Delete Contact-Details" width="50%" height="50%" /></a>
 #
 
 
