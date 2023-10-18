@@ -30,7 +30,7 @@
 **To clone this project, use the following command:**
 
 ```
-https://github.com/pawankalyan142/Project-1-CRUD-Flask-and-SQLITE3.git
+https://github.com/pawankalyan142/Project-2-CRUD-Flask-MySQL.git
 ```
 
 #
@@ -52,21 +52,25 @@ http://localhost:5000
 #
 ## <span style="color:green">**Running the Project:**</span>
 
-**ScreenShort-1**
+**ScreenShort-1 Home**
 
-<a href="" target="_blank"><img src="home.PNG" alt="OSI_Digital" width="50%" height="50%" /></a>
+<a href="" target="_blank"><img src="home.PNG" alt="ScreenShort-1 Home" width="50%" height="50%" /></a>
 #
-**ScreenShort-2 Add Student Page**
+**ScreenShort-2 Add Contact-Details Page**
 
-<a href="" target="_blank"><img src="2.PNG" alt="OSI_Digital" width="50%" height="50%" /></a>
+<a href="" target="_blank"><img src="2.PNG" alt="ScreenShort-2 Add Contact-Details Page" width="50%" height="50%" /></a>
 #
-**ScreenShort-3 Update Student Details**
+**ScreenShort-3 Duplicate Contact-Details**
 
-<a href="" target="_blank"><img src="3.PNG" alt="OSI_Digital" width="50%" height="50%" /></a>
+<a href="" target="_blank"><img src="3.PNG" alt="Duplicate Contact-Details" width="50%" height="50%" /></a>
 #
-**ScreenShort-4  Delete Student Deatils**
+**ScreenShort-4  Update Contact-Details**
 
-<a href="" target="_blank"><img src="4.PNG" alt="OSI_Digital" width="50%" height="50%" /></a>
+<a href="" target="_blank"><img src="4.PNG" alt="Update Contact-Details" width="50%" height="50%" /></a>
+#
+**ScreenShort-4  Delete Contact-Details**
+
+<a href="" target="_blank"><img src="4.PNG" alt="Delete Contact-Details" width="50%" height="50%" /></a>
 #
 
 
